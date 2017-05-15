@@ -2,12 +2,20 @@
   width: 100%;
   height: 480px;
   background-color: #353535;
-  margin-top: 30px; }
-  .screen .date-clock {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 40px; }
-    .screen .date-clock .clock {
-      font-size: 50px;
-      color: #f8f8f6; }
+  margin-top: 30px;
+  color: #f8f8f6;
+  position: relative; }
+
+.screen .date-clock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px; }
+
+.screen .date-clock .clock {
+  font-size: 50px; }
+
+.screen .day {
+  font-size: 10px;
+  display: flex;
+  flex-direction: row; }

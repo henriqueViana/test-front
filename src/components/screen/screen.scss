@@ -5,6 +5,8 @@
   height: 480px;
   background-color: $screen;
   margin-top: 30px;
+  color: $fontScreen;
+  position: relative;
 
   .date-clock{
     display: flex;
@@ -14,7 +16,12 @@
 
     .clock{
       font-size: 50px;
-      color: $fontScreen;
     }
+  }
+
+  .day{
+    font-size: 10px;
+    display: flex;
+    flex-direction: row;
   }
 }
