@@ -1,9 +1,9 @@
-Nome Completo: Luiz Boça
+Nome Completo: Henrique Viana
 
-E-mail: luiz.boca@clubedosminigameiros.com.br
+E-mail: henriquehvisa@gmail.com
 
-Linkedin: http://linkedin.com/luiz.boca
+Linkedin: https://www.linkedin.com/in/henrique-viana-466b652b/
 
-Telefone: (44) 44444-4444 
+Telefone: (21) 99088-4419 
 
-Portfólio (Opicional): clubedosminigameiros.com.br/portfolio
+Portfólio (Opicional): http://www.henriqueviana.com.br

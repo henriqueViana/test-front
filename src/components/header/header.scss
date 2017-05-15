@@ -1,0 +1,36 @@
+@import '../../styles/highlights.scss';
+
+.header{
+  width: 100%;
+  height: 20px;
+  padding-top: 5px;
+  box-sizing: border-box;
+  color: $elementsHeader;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+
+  .wi-fi{
+     display: flex;
+     align-items: center;
+     position: absolute;
+     top: 5px;
+     left: 5px;
+
+     .bullets{
+       width: 6px;
+       height: 6px;
+       margin-right: 2px;
+       background-color: $elementsHeader;
+       border-radius: 50%;
+     }
+  }
+
+  .battery{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+
+  
+}
