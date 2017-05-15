@@ -3,3 +3,11 @@
   height: 480px;
   background-color: #353535;
   margin-top: 30px; }
+  .screen .date-clock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px; }
+    .screen .date-clock .clock {
+      font-size: 50px;
+      color: #f8f8f6; }
