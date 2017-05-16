@@ -27,7 +27,6 @@ export default class Screen extends Component{
    */
   unlockedDevice() {
     this.setState({...this.state, status: 'unlocked'})
-    console.log(this.user);
   }
 
 
@@ -36,7 +35,6 @@ export default class Screen extends Component{
    */
   lockedDevice() {
     this.setState({...this.state, status: 'locked'});
-    
   }
   
   render() {
