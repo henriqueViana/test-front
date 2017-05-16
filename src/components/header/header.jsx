@@ -18,7 +18,10 @@ export default props => (
 
     <Clock showAMPM='true'/>
     
-    <i className="fa fa-battery-three-quarters battery" aria-hidden="true"></i>
+    <div className="battery">
+      <span className='battery-value'>95%</span>
+      <i className="fa fa-battery-three-quarters battery-icon" aria-hidden="true"></i>
+    </div>
   
   </header>
 );
